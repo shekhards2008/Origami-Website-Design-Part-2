@@ -1,0 +1,32 @@
+.menu{
+    display: flex;
+    background-color: black;
+    justify-content:space-between;
+    font-size: 20px;
+    font-family:sans-serif;
+}
+a:link{
+    color: blanchedalmond;
+}
+a:visited{
+    color: blanchedalmond;
+}
+.header{
+    background-image: url("images/background.png");
+    color: burlywood;
+}
+h1{
+    padding-left: 450px;
+}
+h3{
+    padding-top:30px;
+}
+.animals{
+    width:310px;
+    font-family: fantasy;
+}
+.wh,img{
+    display:flex;
+    flex-wrap:wrap;
+    border:outset;
+}
